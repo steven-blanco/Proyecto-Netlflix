@@ -1,4 +1,4 @@
-# Proyecto-Netlflix
+# Proyecto-Netflix
 Este repositorio contiene el análisis realizado con el dataset del catálogo de la plataforma Netflix.
 Información disponible gracias a la plataforma kaggle (https://www.kaggle.com/datasets/dataregina/datasets-de-prctica?select=BI_Netflix_Exploded.csv).
 
